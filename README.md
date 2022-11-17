@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PSVikki
 - 👀 I’m interested in BlockChain Technology
-- 🌱 I’m currently Creating a new BlockChain Academy which Teach Blockchain technology 
-- 💞️ I’m looking to collaborate on Academy Wich Teach Blockchain to student 
+- 🌱 I’m currently Creating a new BlockChain Academy To Teach Blockchain Technology 
+- 💞️ I’m looking to collaborate on Academy Teach Blockchain to Techmate 
 - 📫 How to reach me psvigneshw@gmail.com
 
 <!---
