@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @PSVikki
 - 👀 I’m interested in BlockChain Technology
+- 🌱 My New Blockchain SPC Chain TestNet Is live Now
 - 🌱 I’m currently Creating a new BlockChain Academy To Teach Blockchain Technology 
 - 💞️ I’m looking to collaborate on Academy Teach Blockchain to Techmate 
 - 📫 How to reach me psvigneshw@gmail.com
